@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### My Recent Blog Posts:
 ##### IT Blog:
+
 [How to visualize Zerto metrics using Grafana](https://www.jpaul.me/2023/04/how-to-visualize-zerto-using-grafna/)
 
 [Configuring ZVM Appliance Multi-Factor Authentication](https://www.jpaul.me/2023/04/zvm-appliance-multi-factor-auth/)
@@ -27,9 +28,10 @@ Here are some ideas to get you started:
 
 
 #### Gardening and Cooking Blog:
+
 [Sous Vide Yogurt Magic: Perfecting Homemade Yogurt in Weck Jars](https://leaf2lid.com/recipes/sous-vide-yogurt-magic-perfecting-homemade-yogurt-in-weck-jars/)
 
-[ChatGPT and I Whip up a Bourbon Honey Mustard Vinaigrette]([https://github.com/user/repo/blob/branch/other_file.md](https://leaf2lid.com/recipes/culinary-ai-chatgpt-and-i-whip-up-a-bourbon-honey-mustard-vinaigrette/))
+[ChatGPT and I Whip up a Bourbon Honey Mustard Vinaigrette](https://leaf2lid.com/recipes/culinary-ai-chatgpt-and-i-whip-up-a-bourbon-honey-mustard-vinaigrette/)
 
 
 
