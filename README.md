@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ### Coding Activity via WakaTime ###
-<figure><embed src="https://wakatime.com/share/@57309df2-4461-40ca-b0dc-abcbe405bef1/08681a30-9796-40b0-979e-fa1d914026a7.svg"></embed></figure>
+<img src="https://wakatime.com/share/@57309df2-4461-40ca-b0dc-abcbe405bef1/08681a30-9796-40b0-979e-fa1d914026a7.svg">
 
 ### My GitHub Stats:<br>
 
