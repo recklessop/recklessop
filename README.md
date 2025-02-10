@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 [ChatGPT and I Whip up a Bourbon Honey Mustard Vinaigrette](https://leaf2lid.com/recipes/culinary-ai-chatgpt-and-i-whip-up-a-bourbon-honey-mustard-vinaigrette/)
 
 
+<!--
 ### Coding Activity via WakaTime ###
-#<img src="https://wakatime.com/share/@57309df2-4461-40ca-b0dc-abcbe405bef1/08681a30-9796-40b0-979e-fa1d914026a7.svg">
+<img src="https://wakatime.com/share/@57309df2-4461-40ca-b0dc-abcbe405bef1/08681a30-9796-40b0-979e-fa1d914026a7.svg">
+-->
 
 ### My GitHub Stats:<br>
 
